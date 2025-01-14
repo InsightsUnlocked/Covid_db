@@ -1,5 +1,5 @@
 # Covid_db
-![Covid_db dashboard]()
+![Covid_db dashboard](https://github.com/InsightsUnlocked/Covid_db/blob/main/Covid_db_Dashboard.PNG)
 )
 
 This project involves exploring and analyzing a COVID-19 dataset in MS SQL, followed by creating a dynamic dashboard in Tableau. Key tasks include:
